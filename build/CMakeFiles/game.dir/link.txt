@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/game.dir/src/ball.cpp.o CMakeFiles/game.dir/src/game.cpp.o CMakeFiles/game.dir/src/glad.c.o CMakeFiles/game.dir/src/gyro.cpp.o CMakeFiles/game.dir/src/platform.cpp.o CMakeFiles/game.dir/src/serial.cpp.o CMakeFiles/game.dir/src/shader.cpp.o -o game  -lglfw3 -lGL -lX11 -lpthread -lXrandr -lXi -ldl -lm 

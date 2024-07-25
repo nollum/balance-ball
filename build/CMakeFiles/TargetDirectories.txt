@@ -1,3 +1,0 @@
-/home/nollum/balance-ball/build/CMakeFiles/game.dir
-/home/nollum/balance-ball/build/CMakeFiles/edit_cache.dir
-/home/nollum/balance-ball/build/CMakeFiles/rebuild_cache.dir
