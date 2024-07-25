@@ -1,6 +1,7 @@
 #ifndef SERIAL_H
 #define SERIAL_H
 
+// IMPORTANT: CHANGE THIS TO THE DESIRED TERMINAL
 #define TERMINAL    "/dev/serial/by-id/usb-STMicroelectronics_STM32_STLink_066DFF515049657187225529-if02"
 #define DISPLAY_STRING 1
 
