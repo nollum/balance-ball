@@ -37,7 +37,7 @@ glm::vec3 cameraUp    = glm::vec3(0.0f, 1.0f,  0.0f);
 
 float speedFactor = 0.1f;
 
-Platform platform(5.0f, 5.0f, 1.0f, 0.2f);
+Platform platform(10.0f, 10.0f, 1.0f, 0.2f);
 Ball ball(0.5f, 20, 20);
 
 int main() 

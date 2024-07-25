@@ -77,7 +77,7 @@ void Platform::update(float time) {
 
 void Platform::rotate(glm::mat4 &model) {
     glm::quat quaternion; 
-    glm::vec3 euler(gyro.pitch, 0, gyro.roll);
+    glm::vec3 euler(gyro.roll, 0, gyro.pitch);
     quaternion = glm::quat(euler);
     rotationMatrix = glm::toMat4(quaternion);
     model = rotationMatrix * model;
